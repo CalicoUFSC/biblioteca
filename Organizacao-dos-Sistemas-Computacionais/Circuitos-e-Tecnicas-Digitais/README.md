@@ -1,7 +1,7 @@
 Circuitos e Técnicas Digitais
 ---------------------------
 
-#####[**Sistemas Digitais: Projeto, otimização e HDLs**][1]: *Frank Vahid*
+#####[**Sistemas Digitais: projeto, otimização e HDLs**][1]: *Frank Vahid*
 Primeira edição
 
 

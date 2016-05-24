@@ -4,7 +4,7 @@ Cálculo B para Computação:
 #####[**Cálculo Volume II**][1]: *James Stewart*
 Sexta edição
 
-#####[**Solução dos exercícios dos livros: Cálculo Volume I e II**][1]: *James Stewart*
+#####[**Solução dos exercícios dos livros: Cálculo Volume I e II**][2]: *James Stewart*
 Sexta edição
 
 

@@ -1,0 +1,10 @@
+# Site settings
+title: Biblioteca virtual do Calico
+tag_text: Biblioteca virtual do Calico
+description: Hello
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

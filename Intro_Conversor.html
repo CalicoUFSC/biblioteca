@@ -1,0 +1,130 @@
+<html><head>
+<title>Conversor De Bases</title>
+<script language="JavaScript">
+<!--
+	function convert() {
+	input=(document.formcon.Input.value);
+	origin=(document.formcon.Origin.value);
+	dest=(document.formcon.Destination.value);
+	base="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	c=0; Result="";
+	for (t=1; t<=input.length; t++) {
+	b=base.indexOf(input.substring(t-1,t));
+	n=b*(Math.pow (origin, input.length-t));
+	c+=n;
+	}
+
+	a=100;
+	while (c < Math.pow (dest, a)) { a--; }
+
+	while (a>-1) {
+	e=Math.pow (dest, a);
+	a--;
+	d=((c-(c%e))/e)+1;
+	c=c%e; Ciffer=base.substring(d-1, d); Result = Result + Ciffer;
+	}
+	document.formcon.output.value=Result;
+	}
+
+	function base1(num) {
+	document.formcon.Origin.value= num;
+	}
+
+	function base2(num) {
+	document.formcon.Destination.value= num;
+	}
+
+-->
+</script>
+</head>
+<body bgcolor="#3366FF">
+
+<table align="center" border="0">
+	<tr align="center">
+		<td><font color="#000000"  size="+2" face="Times New Roman, Times, serif"><b>UFSC - CIÊNCIAS DA COMPUTAÇÃO /INTRODUÇAO A COMPUTAÇÃO</b></font></td>
+	</tr>
+	<tr align="center">
+		<td><font color="#000000" size="+2" face="Times New Roman, Times, serif"><b>PROJETO DE CONVERSOR DE BASES<br></b></font> <font color="#FFFFFF" face="Times New Roman, Times, serif" ><b>RAMON DUTRA MIRANDA</b></font></td>
+	</tr>
+
+</table>
+<br><br><br>
+<form name="formcon">
+
+
+    <table width="500" height="255"align="center">
+		<tr bgcolor="#FF3333" >
+			<td colspan="3" align="center"><h2 align="center" class="style1"><b style=" color:#FFFFFF; font-family: arial;">Conversor de Bases</b></h2>
+			</td>
+		</tr>
+		<tr bgcolor="#CCFF33" >
+			<td width="189" height="50" align="right" ><div align="center">Base de Origem</div>
+			</td>
+			<td align="center"><input name="Origin" size="5" style="font-size: 25pt; color: rgb(255, 0, 255); text-align: center;" type="text">
+				<table align="center">
+					<tr align="center">
+						<td>
+						<input type="button" value="Binário" onClick="base1(2);" style="background: #00CC00; color: white;">
+						<input type="button" value="Octadecimal" onClick="base1(8);"  style="background: #FF3333; color: white;">
+						<input type="button" value="Decimal" onClick="base1(10);" style="background:#FFCC33; color: white;">
+						<input type="button" value="Hexadecimal" onClick="base1(16);" style="background: #0099FF; color: white;">
+						</td>
+					</tr>
+				</table>
+		</td>
+		</tr>
+
+		<tr bgcolor="#CCFF66">
+			<td><div align="center"><span style="font-size: 12pt;">Base de Destino </span></div>
+			</td>
+			<td  align="center">
+			<input name="Destination" size="5" style="font-size: 25pt; color: blue; text-align: center;" type="text">
+				<table align="center" >
+					<tr align="center">
+						<td>
+						<input type="button" value="Binário" onClick="base2(2);" style="background: #00CC00; color: white;"  >
+						<input type="button" value="Octadecimal" onClick="base2(8);" style="background: #FF3333; color: white;">
+						<input type="button" value="Decimal" onClick="base2(10);" style="background:#FFCC33; color: white;">
+						<input type="button" value="Hexadecimal" onClick="base2(16);" style="background: #0099FF; color: white;">
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr bgcolor="#33FF33">
+        	<td style="font-size: 12pt;" align="right">Número a&nbsp;ser convertido
+			</td>
+        	<td align="center" ><input name="Input" size="20" style="font-size: 25pt; color: red; text-align: center;" type="text">	<input name="button" type="button" style="background: green none repeat scroll 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; font-weight: bold; color: white;" onClick="convert(this.form.Input.value,this.form.Origin.value,this.form.Destination.value)" value="CONVERTER">
+			</td>
+
+		 </tr>
+		 <tr bgcolor="#0000FF">
+		 	<td align="center"><font color="#CC3333" size="+1" face="Geneva, Arial, Helvetica, sans-serif"><b>Resultado:</b></font>
+			</td>
+				<td><input name="output" size="20" style="font-size: 25pt; color: green; text-align: center;" type="text">
+				</td>
+		</tr>
+</table>
+<br><br>
+<table align="center">
+	<tr>
+		<td style="font:Arial, Helvetica, sans-serif; color:#CCCCCC">
+		<b>Como converter:</b><br>
+		Escolha a base de origem<br>
+		Escolha a base de destino<br>
+		Digite o numero a ser convertido<br>
+		Click em Converter!<br>
+		O resultado sera mostrado no campo Resultado.<br>
+		</td>
+		<td style="font:Arial, Helvetica, sans-serif; color:#CCCCCC">
+		<b>OBS:</b>
+		Caso use letras digite SEMPRE em MAIUSCULO!<br>
+		Caso deseje converter uma outra base numerica,<br>
+		que não pertença as opçoes, basta digitar a base<br>
+		numerica nos campos desejados.
+		</td>
+	</tr>
+</table>
+</form>
+</body>
+</html>

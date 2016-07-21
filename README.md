@@ -4,6 +4,8 @@ Caso tenha algum PDF relevante, mande um pull request. :)
 
 Esta Biblioteca está organizada de acordo com os campos de estudo na ciência da computação.
 
+Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Biblioteca/issues)!
+
 ## Sumário
 
 #### Primeira fase

@@ -1,13 +1,10 @@
 Introdução à Computação
 -----------------------
 
-[**Slides sobre representação da informação**][1] *
+[**Slides sobre representação da informação**][1]*
 
-- - - - - - - -
+[**Conversor de Bases**][2]*
 
-[**Conversor de Bases**][1] *
-
-- - - - - - - -
 
 * Link original por [Ramon Dutra Miranda][linkramon]
 

@@ -2,11 +2,13 @@
 layout: default
 ---
 
+[repositório](https://github.com/CalicoUFSC/Biblioteca)
+
 [facebook](https://www.facebook.com/ufsc.calico)
 
 [calicoufsc@gmail.com](mailto:calicoufsc@gmail.com)
 
-Esta Biblioteca está organizada de acordo com os campos de estudo na ciência da computação.
+Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Biblioteca/issues)!
 
 ## Sumário
 

@@ -5,7 +5,7 @@ Sistemas Digitais:
 
 [**Soluções dos exercícios da quarta edição do livro Computer Organization and Design**][coad_solucoes]
 
-[**Listas de Exercício**][listas] *Prof. José Guntzel* [1]
+[**Listas de Exercícios**][listas] *Prof. José Guntzel* [1]
 
 [**Slides da parte Teórica**][slides_teorica] *Prof. José Guntzel* (Senha dos PDFs: nivelRT) [1]
 

@@ -27,7 +27,7 @@ Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Bibli
 
 #### Terceira fase
 
-* [INE5408 - Estrutura de Dados](Fundamentos-de-Computacao/Estrutura-de-Dados.md)
+* [INE5408 - Estrutura de Dados](Fundamentos-de-Computacao/Estruturas-de-Dados.md)
 * [INE5409 - Cálculo Numérico para Computação](Fundamentos-Matematicos/Calculo-Numerico.md)
 * [INE5410 - Programação Concorrente](Tecnologias-da-Computacao/Programacao/Programacao-Concorrente.md)
 * [INE5411 - Organização de Computadores I](Organizacao-dos-Sistemas-Computacionais/Organizacao-de-Computadores.md)

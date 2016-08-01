@@ -8,6 +8,7 @@ Organização de Computadores:
 Contém os exercícios recomendados pelo Prof. Luiz Cláudio que não estão presentes na versão revisada.
 
 [**Slides**][slides] *Prof. Luiz Claúdio* (senha: plug&pray) [1]
+
 [**Laboratórios**][labs] *Prof. Luiz Claúdio* [1]
 
 [1]: Arquivos cedidos por [Lucas João][https://github.com/lucasjoao]

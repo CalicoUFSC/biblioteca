@@ -13,7 +13,7 @@ Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Bibli
 * [EEL5105 - Circuitos e Técnicas Digitais](Organizacao-dos-Sistemas-Computacionais/Circuitos-e-Tecnicas-Digitais.md)
 * [INE5401 - Introdução à Computação](Fundamentos-de-Computacao/Introducao-a-Computacao.md)
 * [INE5402 - Programação Orientada a Objetos I](Tecnologias-da-Computacao/Programacao/Programacao-Orientada-a-Objetos-I.md)
-* [INE5403 - Fundamentos da Matemática Discreta para Computação](Fundamentos-de-Computacao/Fundamentos-de-Matematica-Discreta-para-Computacao.md)
+* [INE5403 - Fundamentos de Matemática Discreta para Computação](Fundamentos-de-Computacao/Fundamentos-de-Matematica-Discreta-para-Computacao.md)
 * [MTM5161 - Cálculo A](Fundamentos-Matematicos/Calculo-A.md)
 
 #### Segunda fase
@@ -27,7 +27,7 @@ Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Bibli
 
 #### Terceira fase
 
-* [INE5408 - Estrutura de Dados](Fundamentos-de-Computacao/Estruturas-de-Dados.md)
+* [INE5408 - Estruturas de Dados](Fundamentos-de-Computacao/Estruturas-de-Dados.md)
 * [INE5409 - Cálculo Numérico para Computação](Fundamentos-Matematicos/Calculo-Numerico.md)
 * [INE5410 - Programação Concorrente](Tecnologias-da-Computacao/Programacao/Programacao-Concorrente.md)
 * [INE5411 - Organização de Computadores I](Organizacao-dos-Sistemas-Computacionais/Organizacao-de-Computadores.md)

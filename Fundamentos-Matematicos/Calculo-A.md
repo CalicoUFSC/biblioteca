@@ -22,6 +22,6 @@ Cálculo A:
 [listas_melissa]: https://drive.google.com/open?id=0B8eSwDIKbcFKMlpkX3lHY0EyelE
 
 
-[1]: Arquivos cedidos por [Salomão Rodrigues Jacinto][https://github.com/maorodriguesj]
+[1]: Arquivos cedidos por [Salomão Rodrigues Jacinto](https://github.com/maorodriguesj)
 
-[2]: Links originais por [Ramon Dutra Miranda][http://ramon.blog.br/computacao/]
+[2]: Links originais por [Ramon Dutra Miranda](http://ramon.blog.br/computacao/)

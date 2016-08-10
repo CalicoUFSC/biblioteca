@@ -11,7 +11,7 @@ Circuitos e Técnicas Digitais:
 
 [1]: Arquivos cedidos por [Salomão Rodrigues Jacinto](https://github.com/maorodriguesj)
 
-[2]: Link original por [Ramon Dutra Miranda][linkramon]
+[2]: Link original por [Ramon Dutra Miranda](http://ramon.blog.br/computacao/)
 
 [vahid]: https://drive.google.com/file/d/0B8eSwDIKbcFKTXFURjFKLXZlVG8
 
@@ -20,5 +20,3 @@ Circuitos e Técnicas Digitais:
 
 [L1]: https://drive.google.com/open?id=0B8eSwDIKbcFKc0hJR2lkbmp5dzg
 [L4]: https://drive.google.com/open?id=0B8eSwDIKbcFKSW5RbUxzRV9zTmM
-
-[linkramon]: http://ramon.blog.br/computacao/

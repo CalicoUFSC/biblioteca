@@ -21,6 +21,6 @@ Fundamentos de Matemática Discreta para Computação
 [kolman]: https://drive.google.com/open?id=0B8eSwDIKbcFKS1RxM04zQURqSFU
 [rosen]: https://drive.google.com/open?id=0B8eSwDIKbcFKLTg4VXU5dFVSamc
 
-[1]: Arquivos cedidos por [Salomão Rodrigues Jacinto][https://github.com/maorodriguesj]
+[1]: Arquivos cedidos por [Salomão Rodrigues Jacinto](https://github.com/maorodriguesj)
 
-[2]: Links originais por [Ramon Dutra Miranda][http://ramon.blog.br/computacao/]
+[2]: Links originais por [Ramon Dutra Miranda](http://ramon.blog.br/computacao/)

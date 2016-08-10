@@ -14,7 +14,7 @@ Contém os exercícios recomendados pelo Prof. Luiz Cláudio que não estão pre
 *Aulas da Universidade de Bilkent:* [**Videoaulas**][B1] e [**Youtube**][B2](cópia)
 
 
-[1]: Arquivos cedidos por (Lucas João)[https://github.com/lucasjoao]
+[1]: Arquivos cedidos por [Lucas João](https://github.com/lucasjoao)
 
 [livro]: https://drive.google.com/file/d/0B8eSwDIKbcFKMTRTVVJyY2NPLU0
 [respostas]: https://drive.google.com/file/d/0B8eSwDIKbcFKcGw2Vlp3X1BoMzQ

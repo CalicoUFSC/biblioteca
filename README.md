@@ -55,7 +55,7 @@ Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Bibli
 
 * [INE5424 - Sistemas Operacionais II](Organizacao-dos-Sistemas-Computacionais/Sistemas-Operacionais/Sistemas-Operacionais-II.md)
 * [INE5425 - Modelagem e Simulação](Tecnologias-da-Computacao/Modelagem-e-Simulacao.md)
-* [INE5426 - Contrução de Compiladores](Tecnologias-da-Computacao/Construcao-de-Compiladores.md)
+* [INE5426 - Construção de Compiladores](Tecnologias-da-Computacao/Construcao-de-Compiladores.md)
 * [INE5427 - Planejamento e Gestão de Projetos](Tecnologias-da-Computacao/Engenharia-de-Software/Planejamento-e-Gestao-de-Projetos.md)
 * [INE5430 - Inteligência Artificial](Tecnologias-da-Computacao/Inteligencia-Artificial.md)
 * INE5453 - Introdução ao Trabalho de Conclusão de Curso

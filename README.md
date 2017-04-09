@@ -1,7 +1,5 @@
 # Biblioteca virtual do CALICO
 
-<!-- Esta Biblioteca está organizada de acordo com os campos de estudo na ciência da computação. -->
-
 Caso tenha algum material relevante, mande um pull request. :)
 
 Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Biblioteca/issues)!

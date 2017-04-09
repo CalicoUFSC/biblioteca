@@ -1,0 +1,31 @@
+{
+    "id": "MTM7114",
+    "name": "Cálculo B para Computação",
+
+    "items": [
+        {
+            "type": "Livro",
+            "title": "Cálculo Volume II",
+            "author": "James Stewart",
+            "comment": "Sexta edição",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKXzVBcHNiMHFKLTA"
+        },
+        {
+            "type": "Exercícios resolvidos",
+            "title": "Cálculo Volumes I e II",
+            "author": "James Stewart",
+            "comment": "Sexta edição",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKMDhiTkRSaTVYTDQ"
+        },
+        {
+            "title": "Listas de Exercícios",
+            "author": "Prof. Leonardo Kohler",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKbDB5VUtYcU15NnM"
+        },
+        {
+            "title": "Listas de Teoremas",
+            "author": "Prof. Leonardo Kohler",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKc3M3bk44ZVB6R0k"
+        }
+    ]
+}

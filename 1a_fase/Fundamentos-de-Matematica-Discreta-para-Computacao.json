@@ -1,0 +1,40 @@
+{
+    "id": "INE5403",
+    "name": "Fundamentos de Matemática Discreta para Computação",
+
+    "items": [
+        {
+            "title": "Slides",
+            "author": "Prof. Daniel S. Freitas",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKS050QVEtWVlyaGM"
+        },
+        {
+            "title": "Listas de exercícios",
+            "author": "Prof. Daniel S. Freitas",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKRjBva2dBZGxwYkk"
+        },
+        {
+            "title": "Provas anteriores",
+            "author": "Prof. Daniel S. Freitas",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKVlZJb2U0bUh3ZU0"
+        },
+        {
+            "type": "Livro",
+            "title": "Discrete Mathematical Structures",
+            "author": "Bernard Kolman",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKS1RxM04zQURqSFU"
+        },
+        {
+            "type": "Livro",
+            "title": "Discrete Mathematics and its applications",
+            "author": "Kenneth H. Rosen",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKLTg4VXU5dFVSamc"
+        },
+        {
+            "type": "Apostila",
+            "title": "Fundamentos de Matemática Aplicada à Informática",
+            "author": "Profs. Jorge Muniz Barreto, Mauro Roisenberg, Maria Aparecida Fernandes Almeida, Maria Aparecida Fernandes Almeida",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKcV9LaTlkUEJxN1k"
+        }
+    ]
+}

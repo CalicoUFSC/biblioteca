@@ -20,7 +20,9 @@ if __name__ == '__main__':
 
             assert data['name'] != ''
 
-            assert isinstance(data['term'], int) or data['term'] is None
+            term = data['term']
+
+            assert (isinstance(term, int) and 1 <= term <= 8)or term is None
 
             for entry in data['entries']:
                 assert entry['title'] != ''

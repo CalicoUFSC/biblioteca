@@ -2,7 +2,7 @@
     "id": "EEL5105",
     "name": "Circuitos e Técnicas Digitais",
 
-    "items": [
+    "entries": [
         {
             "type": "Livro",
             "title": "Sistemas Digitais: projeto, otimização e HDLs",

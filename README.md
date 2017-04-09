@@ -6,7 +6,9 @@ Caso tenha algum PDF relevante, mande um pull request. :)
 
 Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Biblioteca/issues)!
 
-## Sumário
+
+
+<!-- ## Sumário
 
 #### Primeira fase
 
@@ -71,3 +73,4 @@ Encontrou um link quebrado? Abra uma [issue](https://github.com/CalicoUFSC/Bibli
 #### Oitava fase
 
 * INE5434 - Trabalho de Conclusão de Curso II (TCC)
+ -->

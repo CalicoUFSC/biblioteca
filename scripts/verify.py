@@ -9,18 +9,22 @@ ID_REGEX = re.compile(r'[A-Z]{3}\d{4}')
 PATH = '../*/*.json'
 
 if __name__ == '__main__':
-    for path in sorted(glob(PATH)):
-        print(path)
+    try:
+        for path in sorted(glob(PATH)):
+            print(path)
 
-        with open(path) as json_file:
-            data = json.load(json_file)
+            with open(path) as json_file:
+                data = json.load(json_file)
 
-        assert ID_REGEX.match(data['id']) is not None
+            assert ID_REGEX.match(data['id']) is not None
 
-        assert data['name'] != ''
+            assert data['name'] != ''
 
-        for entry in data['entries']:
-            assert entry['title'] != ''
-            assert entry['link'] != ''
+            for entry in data['entries']:
+                assert entry['title'] != ''
+                assert entry['link'] != ''
+
+    except (AssertionError, json.decoder.JSONDecodeError) as e:
+        raise AssertionError('file {} has an error'.format(path)) from e
 
     print('All is well')

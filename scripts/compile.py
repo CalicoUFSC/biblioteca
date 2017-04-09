@@ -4,7 +4,9 @@ import json
 import os
 from glob import glob
 
-GLOB_PATH = '../*/???????.json'
+SRC_PATH = '../src/'
+
+GLOB_PATH = '*/???????.json'
 
 IGNORE_FILES = {'template.json'}
 
@@ -90,6 +92,6 @@ def json_to_md(json_path, md_path=None):
 
 
 if __name__ == '__main__':
-    for path in glob(GLOB_PATH):
+    for path in glob(os.path.join(SRC_PATH, GLOB_PATH)):
         print(path)
-        json_to_md(path)
+        # json_to_md(path)

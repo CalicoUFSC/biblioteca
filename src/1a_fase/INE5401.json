@@ -1,0 +1,18 @@
+{
+    "id": "INE5401",
+    "name": "Introdução à Computação",
+    "term": 1,
+
+    "entries": [
+        {
+            "type": "Slides",
+            "title": "Representação da Informação",
+            "author": "Profa. Joseana Macêdo Fechine,",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKaXMzX2F0NzR6UjQ"
+        },
+        {
+            "title": "Conversor de Bases",
+            "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKNHR1clpkb0lyZFE"
+        }
+    ]
+}

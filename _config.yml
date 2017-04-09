@@ -1,7 +1,7 @@
 # Site settings
 title: Biblioteca virtual do CALICO
 tag_text: Biblioteca virtual do CALICO
-description: Hello
+description: Biblioteca virtual do CALICO
 
 # Build settings
 markdown: kramdown

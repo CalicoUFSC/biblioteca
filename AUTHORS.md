@@ -9,7 +9,7 @@ Contributors
 
 Felipe Trisotto ([@trisotto](https://github.com/trisotto))
 
-Leonardo de Oliveira da Silva ([@willkraemer](https://github.com/willkraemer))
+Leonardo de Oliveira da Silva ([@losoliveirasilva](https://github.com/losoliveirasilva))
 
 Lucas João ([@lucasjoao](https://github.com/lucasjoao))
 
@@ -19,4 +19,4 @@ Ranieri Althoff ([@ranisalt](https://github.com/ranisalt))
 
 Salomão Rodrigues Jacinto ([@maorodriguesj](https://github.com/maorodriguesj))
 
-William Kraemer Aliaga ([@losoliveirasilva](https://github.com/losoliveirasilva))
+William Kraemer Aliaga ([@willkraemer](https://github.com/willkraemer))

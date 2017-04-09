@@ -4,9 +4,9 @@ import json
 import os
 from glob import glob
 
-SRC_PATH = '../src/'
+JSON_PATH = '../src/???????.json'
 
-GLOB_PATH = '*/???????.json'
+OUTPUT_DIR = '..'
 
 IGNORE_FILES = {'template.json'}
 
@@ -91,7 +91,36 @@ def json_to_md(json_path, md_path=None):
         md_file.write(md_data)
 
 
+def assign_term(term):
+    if isinstance(term, int):
+        return str(term) + 'a_fase'
+    elif term is None:
+        return 'optativas'
+
+    raise KeyError(
+        'unrecognized term. should have ran verify.py before building')
+
+
+def output_file(json_path):
+    with open(json_path) as json_file:
+        data = json.load(json_file)
+
+    return os.path.join(
+        OUTPUT_DIR, assign_term(data['term']), data['id'] + '.md')
+
+
+def create_dir(path):
+    path_dir, _ = os.path.split(path)
+
+    os.makedirs(path_dir, exist_ok=True)
+
+
 if __name__ == '__main__':
-    for path in glob(os.path.join(SRC_PATH, GLOB_PATH)):
-        print(path)
-        # json_to_md(path)
+    for path in glob(JSON_PATH):
+        output = output_file(path)
+
+        print(path, '->', output)
+
+        create_dir(output)
+
+        json_to_md(path, md_path=output)

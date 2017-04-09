@@ -6,7 +6,7 @@ from glob import glob
 
 ID_REGEX = re.compile(r'[A-Z]{3}\d{4}')
 
-PATH = '../*/*.json'
+PATH = '../src/*.json'
 
 if __name__ == '__main__':
     try:
@@ -19,6 +19,8 @@ if __name__ == '__main__':
             assert ID_REGEX.match(data['id']) is not None
 
             assert data['name'] != ''
+
+            assert isinstance(data['term'], int) or data['term'] is None
 
             for entry in data['entries']:
                 assert entry['title'] != ''

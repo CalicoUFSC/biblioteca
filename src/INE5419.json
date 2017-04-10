@@ -3,5 +3,13 @@
     "name": "Engenharia de Software II",
     "term": 5,
 
-    "entries": []
+    "entries": [
+        {
+            "type": "Livro",
+            "title": "Engenharia de Software para Sistemas de Informação: Conceitos e Práticas que Fazem Sentido",
+            "author": "Raul Sidnei Wazlawick",
+            "comment": "2012",
+            "link": "https://drive.google.com/open?id=0B3aN4vtQITYFVm1nU1lxWlU2MGM"
+        }
+    ]
 }

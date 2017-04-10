@@ -3,5 +3,18 @@
     "name": "Redes de Computadores II",
     "term": 5,
 
-    "entries": []
+    "entries": [
+        {
+            "type": "Livro",
+            "title": "Redes de Computadores e a Internet: Uma Abordagem Top-Down",
+            "auhtor": "James F. Kurose e Keith W. Ross",
+            "comment": "Quinta Edição",
+            "link": "https://drive.google.com/open?id=0B3aN4vtQITYFREd4b25mb05oWjQ"
+        },
+        {
+            "title": "Slides",
+            "author": "Prof. Roberto Willrich",
+            "link": "https://drive.google.com/open?id=0B3aN4vtQITYFSGJYTEQweTR4RW8"
+        }
+    ]
 }

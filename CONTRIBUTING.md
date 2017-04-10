@@ -92,9 +92,7 @@ Adicione seu nome e username no arquivo [AUTHORS.md](AUTHORS.md), respeitando a 
 Passo 6:
 --------
 
-Commite suas alterações e abra um Pull Request. :tada:
-
-
+Faça um commit com suas alterações e abra um Pull Request. :tada:
 
 
 <a name="template"></a>Template para JSONs
@@ -128,30 +126,29 @@ Commite suas alterações e abra um Pull Request. :tada:
 }
 ```
 
-Os objetos JSON que representam uma disciplina possuem os seguintes campos:
+#### Os objetos JSON que representam uma disciplina possuem os seguintes campos:
 
-**id**: (string) código da disciplina (deve respeitar o regex `[A-Z]{3}\d{4}`)
+* **id**: (string) código da disciplina (deve respeitar o regex `[A-Z]{3}\d{4}`)
 
-**nome**: (string) nome da disciplina
+* **nome**: (string) nome da disciplina
 
-**term**: (int ou null) fase da disciplina, deve estar entre 1 e 8 (inclusivo) ou ser null caso a disciplina seja optativa
+* **term**: (int ou null) fase da disciplina, deve estar entre 1 e 8 (inclusivo) ou ser null caso a disciplina seja optativa
 
-**entries**: (lista) lista de objetos **entry**.
+* **entries**: (lista) lista de objetos **entry**
 
 Todos estes campos são obrigatórios.
 
 
-Os objetos **entry** possuem os seguintes campos:
+#### Os objetos **entry** possuem os seguintes campos:
 
-**type**: (string) tipo de material (por exemplo, Livro ou Videoaula)
+* **type**: (string) tipo de material (por exemplo, Livro ou Videoaula)
 
-**title**: (string) título que descreve o material
+* **title**: (string) título que descreve o material
 
-**author**: (string) autor do material
+* **author**: (string) autor do material
 
-**comment**: (string) comentários sobre o material (senha para o PDF ou edição do livro)
+* **comment**: (string) comentários sobre o material (senha para o PDF ou edição do livro)
 
-**link**: (string) link para o material
+* **link**: (string) link para o material
 
 Os campos **title** e **link** são obrigatórios. Os outros campos devem ser adicionados se forem relevantes ao material.
-

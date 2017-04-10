@@ -2,11 +2,14 @@
 
 import json
 import re
+import os
 from glob import glob
 
 ID_REGEX = re.compile(r'[A-Z]{3}\d{4}')
 
-PATH = '../src/*.json'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+PATH = os.path.join(BASE_DIR, 'src/*.json')
 
 if __name__ == '__main__':
     try:

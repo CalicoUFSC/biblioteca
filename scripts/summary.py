@@ -51,7 +51,7 @@ SECTION = '\n#### {name}\n'
 
 GITHUB_LINK = 'https://github.com/CalicoUFSC/biblioteca/blob/master/'
 
-BASE_DIR = '..'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 DIRS_REGEX = re.compile(r'(\d)a_fase|optativas')
 

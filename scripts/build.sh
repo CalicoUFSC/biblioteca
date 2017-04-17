@@ -1,10 +1,12 @@
-#! /bin/sh
+#! /bin/bash
 
-python3 verify.py
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+python3 $BASE_DIR/verify.py
 
 if [[ $? != 0 ]]; then
     echo "A JSON file contain errors!"
-    exit
+    exit 1
 fi
 
-python3 compile.py
+python3 $BASE_DIR/compile.py

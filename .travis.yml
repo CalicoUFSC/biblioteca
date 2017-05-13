@@ -3,3 +3,9 @@ python:
     - "3.6"
 
 script: python scripts/verify.py
+
+after_success: bash scripts/travis/deploy.sh
+
+env:
+  global:
+    - ENCRYPTION_LABEL="248447ec91af"

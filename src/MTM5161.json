@@ -14,14 +14,14 @@
         {
             "type": "Livro",
             "title": "Cálculo I",
-            "author": "James Steward",
+            "author": "James Stewart",
             "comment": "Quarta edição",
             "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKTTZMSVEzLVpuLUE"
         },
         {
             "type": "Livro",
             "title": "Cálculo Volume I",
-            "author": "James Steward",
+            "author": "James Stewart",
             "comment": "Quinta edição",
             "link": "https://drive.google.com/open?id=0B8eSwDIKbcFKVzBNUjM1bENFTnM"
         },

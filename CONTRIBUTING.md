@@ -78,18 +78,10 @@ Depois:
 Passo 4:
 --------
 
-Execute o arquivo `scripts/build.sh`, caso ele indique algum erro, corrija-os e começe o passo 4 novamente.
-
-Leia a especificação to [template](#template) caso tenha alguma dúvida de como os JSONs são organizados.
-
-
-Passo 5:
---------
-
 Adicione seu nome e username no arquivo [AUTHORS.md](AUTHORS.md), respeitando a ordem alfabética.
 
 
-Passo 6:
+Passo 5:
 --------
 
 Faça um commit com suas alterações e abra um Pull Request. :tada:

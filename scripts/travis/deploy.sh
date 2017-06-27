@@ -18,7 +18,7 @@ bash scripts/build.sh
 
 # Now let's go have some fun with the cloned repo
 git config user.name "Travis-CI"
-git config user.email "caiopoliveira@gmail.com"
+git config user.email $COMMIT_AUTHOR_EMAIL
 
 # If there are no changes (e.g. this is a README update) then just bail.
 if [[ -z `git diff --exit-code` ]]; then

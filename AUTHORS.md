@@ -1,4 +1,4 @@
-Maintainer
+﻿Maintainer
 ----------
 
 Caio Pereira Oliveira ([@caiopo](https://github.com/caiopo))
@@ -6,6 +6,8 @@ Caio Pereira Oliveira ([@caiopo](https://github.com/caiopo))
 
 Contributors
 ------------
+
+Artur Barichello ([@aBARICHELLO](https://github.com/aBARICHELLO))
 
 Felipe Trisotto ([@trisotto](https://github.com/trisotto))
 

@@ -16,8 +16,12 @@ if __name__ == '__main__':
         for path in sorted(glob(PATH)):
             print(path)
 
-            with open(path) as json_file:
-                data = json.load(json_file)
+            with open(path) as file:
+                file_content = file.read()
+
+            assert file_content[-1] == '\n'
+
+            data = json.loads(file_content)
 
             assert ID_REGEX.match(data['id']) is not None
 

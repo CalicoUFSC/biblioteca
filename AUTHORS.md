@@ -1,4 +1,4 @@
-﻿Maintainer
+Maintainer
 ----------
 
 Caio Pereira Oliveira ([@caiopo](https://github.com/caiopo))

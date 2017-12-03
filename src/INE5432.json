@@ -3,5 +3,28 @@
     "name": "Bancos de Dados II",
     "term": 7,
 
-    "entries": []
+    "entries": [
+        {
+            "type": "Livro",
+            "title": "Fundamentals of Database Systems",
+            "author": "Ramez Elmasri e‎ Shamkant B. Navathe",
+            "comment": "Sexta edição em inglês",
+            "link": "https://drive.google.com/open?id=0By5MR9_jW5u5V1dwaFdzNDZaMG8"
+        },
+        {
+            "title": "Slides",
+            "author": "Prof. Renato Fileto",
+            "link": "https://drive.google.com/open?id=1nz09w7LGWeB_pDIwR9lMd3GmchHR5QiD"
+        },
+        {
+            "title": "Exercícios",
+            "author": "Prof. Renato Fileto",
+            "comment": "Somente o enunciado",
+            "link": "https://drive.google.com/open?id=19eWnubMh2spyYKTSMtTEGHS4kH2jQvWf"
+        },
+        {
+            "title": "Provas anteriores",
+            "link": "https://drive.google.com/open?id=1it_DAh08lPzFBk8vSkGuW7KhR5amIwfz"
+        }
+    ]
 }

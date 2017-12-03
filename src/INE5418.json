@@ -3,5 +3,25 @@
     "name": "Computação Distribuída",
     "term": 5,
 
-    "entries": []
+    "entries": [
+        {
+            "title": "Slides",
+            "author": "Prof. Mario A. R. Dantas",
+            "link": "https://drive.google.com/open?id=1AdFh-wFyo4HRL9tXJtjg-pnRNSQiveKv"
+        },
+        {
+            "title": "Listas de exercícios",
+            "author": "Prof. Mario A. R. Dantas",
+            "link": "https://drive.google.com/open?id=1qIeoZQiTcBCPduXNpqjPF9FCILAoBRF_"
+        },
+        {
+            "title": "Provas anteriores",
+            "link": "https://drive.google.com/open?id=1MS9tE5QjaHskC7veKTOOlFxsh2Vd-dNo"
+        },
+        {
+            "title": "Diversos",
+            "comment": "Vários materiais fornecidos pelo prof. Dantas",
+            "link": "https://drive.google.com/open?id=1PZ3bZ9Hp3Gho0wi0vPU7xAsSJxLNRJp7"
+        }
+    ]
 }

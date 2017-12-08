@@ -3,5 +3,22 @@
     "name": "Paradigmas de Programação",
     "term": 4,
 
-    "entries": []
+    "entries": [
+        {
+            "title": "Slides",
+            "author": "Prof. João Dovicchi e  Prof. Alexandre G. Silva",
+            "link": "https://drive.google.com/open?id=1ckrggUpTlioFBcgi_Q53tbqXqeUCajtK"
+        },
+        {
+            "title": "Apostila de Programação Funcional",
+            "author": "Prof. João Dovicchi",
+            "link": "https://drive.google.com/open?id=0By5MR9_jW5u5N3VET1JhRFNBc1U"
+        },
+        {
+            "type": "Livro",
+            "title": "Introdução à Programação Prolog",
+            "author": "Luiz A. M. Palazzo",
+            "link": "https://drive.google.com/open?id=0By5MR9_jW5u5cUsyelREWGtIOUk"
+        }
+    ]
 }

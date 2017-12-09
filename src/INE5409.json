@@ -3,5 +3,17 @@
     "name": "Cálculo Numérico para a Computação",
     "term": 3,
 
-    "entries": []
+    "entries": [
+        {
+            "type": "Livro",
+            "title": "Cálculo numérico computacional",
+            "author": "Sérgio Peters e Júlio Felipe Szeremeta",
+            "comment": "Link para o site do professor que disponibiliza os arquivos",
+            "link": "http://sergiopeters.prof.ufsc.br/livro-calculo-numerico-computacional/"
+        },
+        {
+            "title": "Provas anteriores",
+            "link": "https://drive.google.com/open?id=1Q-s8kQnAdgw5wOW_21gD5Ee7iWI92b46"
+        }
+    ]
 }

@@ -1,9 +1,16 @@
 {
-    "id": "MTM7114",
-    "name": "Cálculo B para Computação",
+    "id": "MTM3102",
+    "name": "Cálculo 2"
     "term": 2,
 
     "entries": [
+        {
+            "type": "Livro",
+            "title": "Cálculo Volume II",
+            "author": "James Stewart",
+            "comment": "Sétima edição",
+            "link": "https://drive.google.com/file/d/1695mwFB6b6YPfUD3jluSB05qYc4WyC-g/view?usp=sharing"
+        },
         {
             "type": "Livro",
             "title": "Cálculo Volume II",
